@@ -2,6 +2,7 @@
 - 🇲🇦 Moroccan.
 - 🛠️ Android/Web Applications Ethical Hacker.
 - 💻 Android root & Xposed Modules amateur dev.
+- 🧬 Psychology & Sociology lover.
 - ✉️ Reach me at: https://t.me/syn74x_3rr
 - 🇵🇸 #FREE_PALESTINE
 
