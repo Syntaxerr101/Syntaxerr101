@@ -1,4 +1,3 @@
-
 # It's Simo [Syntax_Err]
 
 - 🇲🇦 Moroccan.
