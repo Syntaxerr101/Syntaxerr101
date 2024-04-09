@@ -1,5 +1,4 @@
-# It's Simo [Syntax_Err]
-
+# It's Simo 😁
 - 🇲🇦 Moroccan.
 - 🛠️ Android/Web Applications Ethical Hacker.
 - 💻 Xposed Modules Creator.
