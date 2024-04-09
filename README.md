@@ -1,5 +1,5 @@
 
-# Hi, I'm Simo [Syntax_Err] 👋
+# It's Simo [Syntax_Err]
 
 - 🇲🇦 Moroccan.
 - 🛠️ Android/Web Applications Ethical Hacker.
