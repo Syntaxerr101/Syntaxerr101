@@ -1,4 +1,4 @@
-# It's Simo 
+# 🩸 It's Simo
 - 🇲🇦 Moroccan.
 - 🛠️ Android/Web Applications Ethical Hacker.
 - 💻 Root & Xposed Apps Amateur Dev.
