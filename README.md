@@ -1,4 +1,3 @@
-# It's S͢i͢m͢o͢
 - 🇲🇦 Moroccan.
 - 🛠️ Android/Web Applications Ethical Hacker.
 - 💻 Root & Xposed Apps Amateur Dev.
