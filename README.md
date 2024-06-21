@@ -2,5 +2,5 @@
 
 - 🇲🇦 Moroccan.
 - 💻 Android & Web ethical hacker.
-- 🛠️ Root & Xposed junior dev.
+- 🛠️ Junior Java developer.
 
