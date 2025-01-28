@@ -1,4 +1,4 @@
 - 🇲🇦 Moroccan.
 - 💻 Android & Web ethical hacker.
-- 🧑‍🔧 Reverse engineering android apps.
+- 🧑‍🔧 Reverse engineering Android apps.
 - 🛠️ Junior Java developer.
