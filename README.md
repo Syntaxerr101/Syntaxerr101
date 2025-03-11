@@ -5,3 +5,4 @@
 
 ![Simo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syntaxerr101&show_icons=true&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syntaxerr101&include_all_commits=true&include_forks=true)
