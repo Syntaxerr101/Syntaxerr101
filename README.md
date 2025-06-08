@@ -1,5 +1,4 @@
-- 🇲🇦 Moroccan.
+- 🇲🇦 Moroccan [INTJ Mode].
 - 💻 Android & Web ethical hacker.
 - 🧑‍🔧 Reverse engineering Android apps.
 - 🛠️ Junior Java developer.
-
