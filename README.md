@@ -1,4 +1,3 @@
 - 🇲🇦 Moroccan.
-- 👤 INTJ mode.
 - 💻 Android & Web ethical hacker.
-- 🛠️ Junior Java developer.
+- 🛠️ Java dev.
