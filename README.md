@@ -1,3 +1,2 @@
 - 🇲🇦 Moroccan.
 - 💻 Android & Web ethical hacker.
-- 🛠️ Java dev.
